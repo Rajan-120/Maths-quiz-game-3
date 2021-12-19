@@ -1,0 +1,58 @@
+body{
+    background: url("background2.png");
+}
+#name{
+    opacity: 0.7;
+    margin-top: 100px;
+    border-radius: 20px;
+    width: 280px;
+    height: 40px;
+}
+#name2{
+    opacity: 0.7; 
+    margin-top: 50px;
+    border-radius: 20px;
+    width: 280px;
+    height: 40px;
+}
+
+img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+p{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+}
+#Submit{
+    background-color: crimson;
+    color: white;
+    border-radius: 20px;
+    width: 280px;
+    height: 40px;
+}
+#player1_turn{
+font-family: 'Oswald', sans-serif;
+color: cornsilk;
+font-size: 40px;
+}
+
+#player2_turn{
+    font-family: 'Oswald', sans-serif;
+    color: cornsilk;
+    font-size: 40px;
+}
+#output {
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+
+.container{
+    background-image: url("background.png");
+}
